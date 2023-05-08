@@ -64,15 +64,9 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-.fab {
-  font-size: 32px;
-}
-.position {
-  position: absolute;
-  top: 100px;
-  right: 40px;
-}
 @media screen and (max-width: 768px) {
   .social i {
     color: red;
   }
+}
+  
